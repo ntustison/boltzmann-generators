@@ -1,5 +1,5 @@
 from simtk import openmm as mm
-from simtk.openmm import app
+from openmm import app
 from simtk import unit
 import torch
 import numpy as np
