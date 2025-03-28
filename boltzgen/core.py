@@ -5,7 +5,7 @@ import normflows as nf
 
 from simtk import openmm as mm
 from simtk import unit
-from simtk.openmm import app
+from openmm import app
 from openmmtools import testsystems
 import mdtraj
 
